@@ -19,4 +19,5 @@ app.get('/about', (req, res)=>{
 
 app.get('/home', (req, res) =>{
     res.send("this is the home page");
+    
 });
